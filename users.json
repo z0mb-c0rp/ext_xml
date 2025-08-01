@@ -1,0 +1,8 @@
+{
+  "users": [
+    { "username": "igor",   "password": "Senha1" },
+    { "username": "outro1",  "password": "SenhaDois!"      },
+    { "username": "outro2",  "password": "SenhaTres#"      }
+  ]
+}
+Seu executáv

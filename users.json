@@ -1,7 +1,7 @@
 {
   "users": [
-    { "username": "igor",   "password": "Senha1" },
-    { "username": "outro1",  "password": "SenhaDois!"      },
-    { "username": "outro2",  "password": "SenhaTres#"      }
+    { "username": "igor.freitas@nasp.com.br" },
+    { "username": "usuario2@dominio.com" },
+    { "username": "usuario3@dominio.com" }
   ]
 }

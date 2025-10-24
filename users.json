@@ -1,4 +1,6 @@
-[
-  "igor.freitas@nasp.com.br",
-  "diego.rodrigues@nasp.com.br"
-]
+{
+  "users": [
+    { "email": "diego.rodrigues@nasp.com.br" },
+    { "email": "igor.freitas@nasp.com.br" }
+  ]
+}

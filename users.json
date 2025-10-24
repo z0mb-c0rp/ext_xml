@@ -1,6 +1,6 @@
 {
   "users": [
-    { "email": "diego.rodrigues@nasp.com.br" },
-    { "email": "igor.freitas@nasp.com.br" }
+    { "user": "diego.rodrigues@nasp.com.br" },
+    { "user": "igor.freitas@nasp.com.br" }
   ]
 }
